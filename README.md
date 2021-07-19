@@ -1,2 +1,2 @@
 # Ghost_game
-Ghost_game is a simple python game where you just pick random door and open it, if there is a ghost you lost.
+Ghost_game je jednoduchá hra v pythonu, kde si pouze vyberete náhodné dveře a otevřete je, pokud existuje duch, kterého jste ztratili.
